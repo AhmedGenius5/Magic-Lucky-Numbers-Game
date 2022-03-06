@@ -53,16 +53,4 @@ while True:
                 print("Didn't Got It!")
             print("Hope to see you again ^_^, Good Bye!\n")
             break
-        
-
- # if lucky_list == "":
-        #    lucky_list = str(input("Please insert your magic lucky numbers or words!\n")).split()
-        #    unique_lucky_list = set(lucky_list)
-        # else:
-        #     old_list = input("Use the old lucky list? :) (y, n) ")
-        #     if old_list != 'y':
-        #         if old_list != 'n':
-        #             print("Didn't Got It! Old lucky list is used!\n")
-        #         else:
-        #             lucky_list = str(input("Please insert your magic lucky numbers or words!\n")).split()
-        #     unique_lucky_list = set(lucky_list)
+ 
