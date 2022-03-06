@@ -1,8 +1,8 @@
 # Magic-Lucky-Numbers-Game
 Magic Lucky Numbers Game is a funny game created to interact with individual and multi users to try there luck with words and numbers using python as programming language
 ## Skill used
-1- Python Basics 
-2- Data Structres {list, set}
+1- Python Basics. 
+2- Data Structres {list, set}.
 ## How to use?
 The game already is ready with all explanations for all what you will face inside 
 At first, It will ask you to insert your random words or numbers to choose from them.
